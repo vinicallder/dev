@@ -1,0 +1,6 @@
+1 O homem coloca a cabra no barco e leva ao outro lado
+2 O homem volta e coloca o capim na jangada
+3 Ele atravessa com o capim e coloca a cabra de volta na jangada
+4 Ele volta e deixa a cabra e coloca o Leão na jangada
+5 Ele atravessa com o Leão e volta para buscar a cabra
+6 Ele busca a cabra e atravessa para o outro lado.

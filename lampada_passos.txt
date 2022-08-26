@@ -1,0 +1,16 @@
+Pegue a lâmpada nova a sua frente com seu braço esquerdo.
+Caminhe um total de X passos a sua direita até a mesa.
+Com as duas mãos pegue a cadeira em sua frente.
+Caminhe com a cadeira um total de X passos para a frente até o centro da sala.
+Coloque a cadeira no chão.
+Levante a perna esquerda e a apóie na cadeira
+Com a perna direita suba de vez encima da cadeira
+Levante seu braço direito
+Segure a lâmpada com o braço direito levantado
+Com a mão direita rosqueie a lâmpada velha até a mesma desencaixar
+Coloque a lâmpada velha no bolso.
+Com a mão esquerda encaixe a lâmpada nova no encaixe.
+Rosqueie a lâmpada nova até ela firmar com a mão esquerda.
+*Lâmpada acende*
+Solte a lâmpada e desça da cadeira.
+Sorria, sua lâmpada foi trocada com sucesso!
